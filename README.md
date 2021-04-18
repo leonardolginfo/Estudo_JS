@@ -1,2 +1,2 @@
-# estudo_js
-Exercícios JS 
+# Exercícios JS
+
